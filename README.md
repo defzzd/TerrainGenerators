@@ -1,4 +1,8 @@
 TerrainGenerators
 =================
 
-Library of terrain generators (and some dungeon map generators). Contains demonstration programs for most of the interesting parts.
+Library of terrain generators (and some dungeon map generators).
+    Contains pygame-based demonstration programs for display purposes.
+    
+These programs were developed before I had any formal training in software
+    development and, in this form, should be used for informative purposes only.
